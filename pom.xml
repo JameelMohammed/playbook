@@ -1,3 +1,4 @@
+
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
@@ -14,15 +15,15 @@
 	</parent>
 
 	<scm>
-		<connection>scm:git:ssh://git.ellucian.com:mobile/ansible-playbook-alfresco-prebake.git</connection>
-		<developerConnection>scm:git:ssh://git.ellucian.com:mobile/ansible-playbook-alfresco-prebake.git</developerConnection>
+		<connection>scm:git:ssh://git@github.com:JameelMohammed/playbook.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:JameelMohammed/playbook.git</developerConnection>
 	</scm>
 
 	<name>Ansible Playbook - Alfresco Base Installation</name>
 	
 	<description>An Ansible playbook for installing a baseline for Alfresco</description>
 	
-	<url>https://git.ellucian.com/projects/MOBILE/repos/ansible-playbook-alfresco-prebake/</url>
+	<url>https://github.com/JameelMohammed/playbook.git</url>
 
 	<inceptionYear>2015</inceptionYear>
 </project>
