@@ -1,0 +1,2 @@
+role 'java',
+  git: 'https://git.ellucian.com/scm/devops/ansible-role-java.git', ref: '0.4'

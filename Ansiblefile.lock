@@ -1,0 +1,10 @@
+GIT
+  remote: https://git.ellucian.com/scm/devops/ansible-role-java.git
+  ref: 0.4
+  sha: 5c5931fcb81b6be970b49114d7cfd5aa37995f34
+  specs:
+    java (0.4)
+
+DEPENDENCIES
+  java (>= 0)
+
